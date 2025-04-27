@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.local
+
+# Data files
+data/
+output/
+
+# Logs
+logs/
+*.log
+
+# CSVs and backups
+*.csv
+*.json
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Python-specific
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.idea/
+
+# Database credentials or backups
+*.db
+
+# Testing
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+
+# Misc
+*.bak
+*.swp
