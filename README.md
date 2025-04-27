@@ -1,11 +1,3 @@
----
-title: Building a Robust ETL Pipeline for Weather Data Using Python and Supabase
-published: false
-description: Learn how to build a complete ETL pipeline that extracts weather data from OpenWeatherMap API, transforms it with Pandas, and loads it into a Supabase PostgreSQL database.
-tags: python, data, etl, tutorial
-cover_image: 
-series: 
----
 
 # Building a Robust ETL Pipeline for Weather Data Using Python and Supabase
 
